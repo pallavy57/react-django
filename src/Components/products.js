@@ -37,7 +37,7 @@ function Products() {
               <h3>{pro.name}</h3>
               <h2 class="price">${pro.price}<small>.22</small></h2>
               <button type="button" class="buy" onClick={() => handleClick(pro)}>
-                Add To Cart
+                View Product
               </button>
 
             </div>

@@ -101,3 +101,11 @@
     top: 0;
     opacity: 1;
 }
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
